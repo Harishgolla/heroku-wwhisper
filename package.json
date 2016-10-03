@@ -1,0 +1,23 @@
+{
+  "author": "jw",
+  "name": "heroku-node-app",
+  "description": "Basic express app",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/wrr/heroku-node-app.git"
+  },
+  "main": "web.js",
+  "dependencies": {
+    "logfmt": "~0.18.1",
+    "express": "*",
+    "connect-wwwhisper": "*",
+    "jade": "*"
+  },
+
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "4.x.x"
+  }
+}
