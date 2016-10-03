@@ -14,7 +14,9 @@
     "connect-wwwhisper": "*",
     "jade": "*"
   },
-
+  "scripts": {
+    "start": "node web.js"
+  },
   "devDependencies": {},
   "optionalDependencies": {},
   "engines": {
